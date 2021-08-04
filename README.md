@@ -1,2 +1,4 @@
-# KlugDossier-Storage
-Decentralized Storage for KlugDossier
+# Subspace Core Rust
+
+A simple blockchain based on proofs-of-replication for the KlugDossier Decentalized Storage, implemented in pure Rust.
+
